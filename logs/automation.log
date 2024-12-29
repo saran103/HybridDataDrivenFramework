@@ -1,0 +1,182 @@
+2024-12-28 17:31:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_Dec_2024\HybridDataDrivenFramework\grid-docker.xml
+
+2024-12-28 17:32:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_Dec_2024\HybridDataDrivenFramework\grid-docker.xml
+
+2024-12-28 17:32:39 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest on chrome browser***
+2024-12-28 17:32:40 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. chrome browser
+2024-12-28 17:32:40 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. chrome browser
+2024-12-28 17:32:41 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...chrome browser
+2024-12-28 17:32:52 ERROR TC001_AccountRegistrationTest:51 - Test failed: Unable to locate element: //input[@id='input-firstname']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [62b7ecd5-e40a-4a28-88a4-f6abfc1e212a, findElement {using=xpath, value=//input[@id='input-firstname']}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 133.0.3, moz:accessibilityChecks: false, moz:buildID: 20241209150345, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 2215, moz:profile: /tmp/rust_mozprofiledXQpsi, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: , se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Session ID: 62b7ecd5-e40a-4a28-88a4-f6abfc1e212a
+2024-12-28 17:32:52 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest on chrome browser****
+2024-12-28 17:32:52 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest on firefox browser***
+2024-12-28 17:32:53 ERROR TC001_AccountRegistrationTest:51 - Test failed: Tried to run command without establishing a connection
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [62b7ecd5-e40a-4a28-88a4-f6abfc1e212a, findElement {using=xpath, value=//a[@title='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 133.0.3, moz:accessibilityChecks: false, moz:buildID: 20241209150345, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 2215, moz:profile: /tmp/rust_mozprofiledXQpsi, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: , se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Session ID: 62b7ecd5-e40a-4a28-88a4-f6abfc1e212a
+2024-12-28 17:32:53 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest on firefox browser****
+2024-12-28 17:35:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_Dec_2024\HybridDataDrivenFramework\grid-docker.xml
+
+2024-12-28 17:36:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_Dec_2024\HybridDataDrivenFramework\grid-docker.xml
+
+2024-12-28 17:36:23 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest on firefox browser***
+2024-12-28 17:36:24 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. firefox browser
+2024-12-28 17:36:24 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. firefox browser
+2024-12-28 17:36:24 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...firefox browser
+2024-12-28 17:36:26 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..firefox browser
+2024-12-28 17:36:36 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest on firefox browser****
+2024-12-28 17:37:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_Dec_2024\HybridDataDrivenFramework\grid-docker.xml
+
+2024-12-28 17:37:49 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest on firefox browser***
+2024-12-28 17:37:49 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. firefox browser
+2024-12-28 17:37:50 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. firefox browser
+2024-12-28 17:37:50 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...firefox browser
+2024-12-28 17:37:51 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..firefox browser
+2024-12-28 17:38:02 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest on firefox browser****
+2024-12-28 17:40:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_Dec_2024\HybridDataDrivenFramework\grid-docker.xml
+
+2024-12-28 17:40:47 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest on firefox browser***
+2024-12-28 17:40:47 ERROR TC001_AccountRegistrationTest:51 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2024-12-28 17:40:47 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest on firefox browser****
+2024-12-28 17:41:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_Dec_2024\HybridDataDrivenFramework\grid-docker.xml
+
+2024-12-28 17:41:55 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest on firefox browser***
+2024-12-28 17:41:55 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. firefox browser
+2024-12-28 17:41:56 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. firefox browser
+2024-12-28 17:41:56 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...firefox browser
+2024-12-28 17:41:57 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..firefox browser
+2024-12-28 17:42:07 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest on firefox browser****
+2024-12-28 17:45:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_Dec_2024\HybridDataDrivenFramework\master.xml
+
+2024-12-28 17:45:20 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 17:45:20 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 17:45:20 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 17:45:23 INFO  TC003_LoginDDT:62 - ***** Finished TC002_LoginTest*****
+2024-12-28 17:45:23 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 17:45:23 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 17:45:23 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 17:45:26 INFO  TC003_LoginDDT:62 - ***** Finished TC002_LoginTest*****
+2024-12-28 17:45:26 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 17:45:26 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 17:45:26 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 17:45:37 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 17:45:37 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 17:45:38 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 17:45:49 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 17:45:49 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 17:45:50 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 17:45:52 INFO  TC003_LoginDDT:62 - ***** Finished TC002_LoginTest*****
+2024-12-28 17:47:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_Dec_2024\HybridDataDrivenFramework\grid-docker.xml
+
+2024-12-28 17:47:30 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest on firefox browser***
+2024-12-28 17:47:30 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. firefox browser
+2024-12-28 17:47:31 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. firefox browser
+2024-12-28 17:47:31 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...firefox browser
+2024-12-28 17:47:32 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..firefox browser
+2024-12-28 17:47:43 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest on firefox browser****
+2024-12-28 17:48:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_Dec_2024\HybridDataDrivenFramework\grid-docker.xml
+
+2024-12-28 17:49:02 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest on chrome browser***
+2024-12-28 17:49:02 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. chrome browser
+2024-12-28 17:49:03 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. chrome browser
+2024-12-28 17:49:03 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...chrome browser
+2024-12-28 17:49:15 ERROR TC001_AccountRegistrationTest:51 - Test failed: Unable to locate element: //input[@id='input-firstname']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [6f5721a8-3b55-4215-ac4e-6266f1367873, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 133.0.3, moz:accessibilityChecks: false, moz:buildID: 20241209150345, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 4215, moz:profile: /tmp/rust_mozprofilelPIoFI, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: , se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Session ID: 6f5721a8-3b55-4215-ac4e-6266f1367873
+2024-12-28 17:49:15 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest on chrome browser****
+2024-12-28 17:49:15 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest on firefox browser***
+2024-12-28 17:49:15 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. firefox browser
+2024-12-28 17:49:16 ERROR TC001_AccountRegistrationTest:51 - Test failed: Tried to run command without establishing a connection
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [6f5721a8-3b55-4215-ac4e-6266f1367873, findElement {value=//a[normalize-space()='Register'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 133.0.3, moz:accessibilityChecks: false, moz:buildID: 20241209150345, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 4215, moz:profile: /tmp/rust_mozprofilelPIoFI, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: , se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+2024-12-28 17:49:16 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest on firefox browser****
+2024-12-28 17:51:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_Dec_2024\HybridDataDrivenFramework\grid-docker.xml
+
+2024-12-28 17:51:28 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 17:51:28 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 17:51:28 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 17:51:30 INFO  TC003_LoginDDT:62 - ***** Finished TC002_LoginTest*****
+2024-12-28 17:51:30 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 17:51:31 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 17:51:31 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 17:51:33 INFO  TC003_LoginDDT:62 - ***** Finished TC002_LoginTest*****
+2024-12-28 17:51:33 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 17:51:33 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 17:51:34 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 17:51:45 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 17:51:45 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 17:51:46 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 17:51:57 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 17:51:57 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 17:51:57 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 17:51:59 INFO  TC003_LoginDDT:62 - ***** Finished TC002_LoginTest*****
+2024-12-28 17:59:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Selenium_Dec_2024\HybridDataDrivenFramework\grid-docker.xml
+
+2024-12-28 17:59:26 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest on chrome browser***
+2024-12-28 17:59:26 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. chrome browser
+2024-12-28 17:59:27 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. chrome browser
+2024-12-28 17:59:27 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...chrome browser
+2024-12-28 17:59:38 ERROR TC001_AccountRegistrationTest:51 - Test failed: Unable to locate element: //input[@id='input-firstname']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [add46eb8-296c-45c6-b4b8-00761f43beca, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 133.0.3, moz:accessibilityChecks: false, moz:buildID: 20241209150345, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 5530, moz:profile: /tmp/rust_mozprofileezU67a, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: , se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Session ID: add46eb8-296c-45c6-b4b8-00761f43beca
+2024-12-28 17:59:38 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest on chrome browser****
+2024-12-28 17:59:40 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 18:32:11 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 18:32:12 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 18:32:12 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 18:32:15 INFO  TC003_LoginDDT:62 - ***** Finished TC002_LoginTest*****
+2024-12-28 18:32:15 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 18:32:15 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 18:32:15 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 18:32:17 INFO  TC003_LoginDDT:62 - ***** Finished TC002_LoginTest*****
+2024-12-28 18:32:17 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 18:32:18 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 18:32:18 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 18:32:29 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 18:32:29 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 18:32:30 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 18:32:41 INFO  TC003_LoginDDT:17 - ***** Starting TC003_LoginDDT*****
+2024-12-28 18:32:41 INFO  TC003_LoginDDT:23 - **** Clicked My Account link in home page...****
+2024-12-28 18:32:42 INFO  TC003_LoginDDT:25 - **** Clicked login link in home page...****
+2024-12-28 18:32:44 INFO  TC003_LoginDDT:62 - ***** Finished TC002_LoginTest*****
+2024-12-28 18:35:48 INFO  TC001_AccountRegistrationTest:17 - ***** Starting TC001_AccountRegistrationTest on edge browser***
+2024-12-28 18:35:48 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. edge browser
+2024-12-28 18:35:49 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. edge browser
+2024-12-28 18:35:49 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...edge browser
+2024-12-28 18:35:51 INFO  TC001_AccountRegistrationTest:43 - Validating expected message..edge browser
+2024-12-28 18:35:51 INFO  TC001_AccountRegistrationTest:47 - Test passed edge browser
+2024-12-28 18:35:51 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest on edge browser****
